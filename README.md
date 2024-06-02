@@ -5,12 +5,8 @@
 <br>
 
 - 🔭 Участник Зимней школы ФКН НИУ ВШЭ по программной инженерии.
-
-- 🌱 Сейчас я изучаю **Node.js, telegraf.js, PostgreSQL**
-
-- 👨‍💻 Буду рад в кооперации для создания Pet-Projects
-
-- 💬 Могу помочь с **HTML, CSS, TAILWINDCSS**
+- 
+- 💬 Могу помочь с **HTML, CSS, TAILWINDCSS, TYPESCRIPT, JAVASCRIPT, REACT, NODEJS**
 
 <br>
 
